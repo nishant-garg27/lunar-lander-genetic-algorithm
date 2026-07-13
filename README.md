@@ -50,7 +50,7 @@ python src/train_agent.py
 Evaluate a trained policy:
 
 ```bash
-python src/evaluate_agent.py --filename models/best_policy_gen_5000.npy --policy_module policy
+python src/evaluate_agent.py --filename models/best_policy.npy --policy_module policy
 ```
 
 Play manually:
